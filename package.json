@@ -1,0 +1,31 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "Video chatting app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amresh-singh-kipm/Zoom-clone.git"
+  },
+  "keywords": [
+    "Amresh32@"
+  ],
+  "author": "Amresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amresh-singh-kipm/Zoom-clone/issues"
+  },
+  "homepage": "https://github.com/amresh-singh-kipm/Zoom-clone#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "peer": "^0.6.1",
+    "socket.io": "^4.5.1",
+    "uuid": "^8.3.2"
+  }
+}
